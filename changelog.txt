@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 02. 03. 2024
+  Features:
+    - Integrate this mod with Compakt Circuit
+---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 12. 11. 2023
+  Bugfixes:
+    - Fixed Select Input mode crashing on negative indexes
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 12. 11. 2023
+  Features:
+    - Select Input mode can now read the index from the red wire, and sort from the green wire.
+    - Random Input mode can be toggled to not repeat the previous output.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 11. 11. 2023
+  Major Features:
+    - Initial release.
